@@ -1,0 +1,1 @@
+# arsitektur-Multiple-prosesor-dan-Multiprosesor-Symmetric.-Draw-io
