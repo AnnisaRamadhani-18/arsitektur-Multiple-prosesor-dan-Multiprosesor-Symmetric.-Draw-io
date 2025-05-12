@@ -13,7 +13,7 @@ Ada dua jenis utama:
 
 ---
 
-## **1. Arsitektur Multiple Prosesor (Non-SMP) (**
+## **1. Arsitektur Multiple Prosesor (Non-SMP) (Sebelah Kiri)**
 
 ###  **Karakteristik Utama:**
 
@@ -38,7 +38,7 @@ Ada dua jenis utama:
 
 ---
 
-##  **2. Arsitektur Multiprosesor Simetris (SMP)**
+##  **2. Arsitektur Multiprosesor Simetris (SMP) (Sebelah Kanan)**
 
 ###  **Karakteristik Utama:**
 
